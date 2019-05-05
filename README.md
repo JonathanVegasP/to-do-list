@@ -1,3 +1,3 @@
 # To Do List
 
-An application that make a to do list.
+An application that makes a to do list.
